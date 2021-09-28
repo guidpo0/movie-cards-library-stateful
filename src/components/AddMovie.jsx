@@ -49,7 +49,7 @@ class AddMovie extends React.Component {
       }
     });
     return (
-      <form data-testid="add-movie-form">
+      <form className="add-movie-form" data-testid="add-movie-form">
         <Input text="Título" name="title" value={ title } change={ change } />
         <Input text="Subtítulo" name="subtitle" value={ subtitle } change={ change } />
         <Input

@@ -22,6 +22,7 @@ body {
 .movie-list {
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
   padding: 48px 30px;
 }
 
@@ -80,4 +81,37 @@ body {
   display: flex;
   justify-content: flex-end;
   padding: 12px 20px;
+}
+
+.subtitle {
+  font-size: 1.5em;
+  margin: 30px;
+  text-align: center;
+}
+
+.search-bar-form {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+label > * {
+  margin: 0 5px;
+}
+
+.search-bar-form > * {
+  margin: 0 20px;
+}
+
+.add-movie-form {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.add-movie-form > * {
+  align-items: center;
+  display: flex;
+  margin: 10px 20px;
 }

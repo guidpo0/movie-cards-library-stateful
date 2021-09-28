@@ -65,7 +65,7 @@ class MovieLibrary extends Component {
     const movies = this.moviesFiltered();
     return (
       <div>
-        <h2> My awesome movie library </h2>
+        <h2 className="subtitle">Procurar Filme</h2>
         <SearchBar
           searchText={ searchText }
           onSearchTextChange={ this.handleChange }
@@ -75,6 +75,7 @@ class MovieLibrary extends Component {
           onSelectedGenreChange={ this.handleChange }
         />
         <MovieList movies={ movies } />
+        <h2 className="subtitle">Adicionar Filme</h2>
         <AddMovie onClick={ this.handleAddMovieClick } />
       </div>
     );
