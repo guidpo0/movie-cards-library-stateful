@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/movie-cards-library-stateful/static/css/main.e274d78f.chunk.css",
+    "main.js": "/movie-cards-library-stateful/static/js/main.57480d28.chunk.js",
+    "main.js.map": "/movie-cards-library-stateful/static/js/main.57480d28.chunk.js.map",
+    "runtime-main.js": "/movie-cards-library-stateful/static/js/runtime-main.2979b9ff.js",
+    "runtime-main.js.map": "/movie-cards-library-stateful/static/js/runtime-main.2979b9ff.js.map",
+    "static/js/2.6879c355.chunk.js": "/movie-cards-library-stateful/static/js/2.6879c355.chunk.js",
+    "static/js/2.6879c355.chunk.js.map": "/movie-cards-library-stateful/static/js/2.6879c355.chunk.js.map",
+    "index.html": "/movie-cards-library-stateful/index.html",
+    "precache-manifest.763321fb9f9d13c76d6fad39345f784b.js": "/movie-cards-library-stateful/precache-manifest.763321fb9f9d13c76d6fad39345f784b.js",
+    "service-worker.js": "/movie-cards-library-stateful/service-worker.js",
+    "static/css/main.e274d78f.chunk.css.map": "/movie-cards-library-stateful/static/css/main.e274d78f.chunk.css.map",
+    "static/js/2.6879c355.chunk.js.LICENSE.txt": "/movie-cards-library-stateful/static/js/2.6879c355.chunk.js.LICENSE.txt",
+    "static/media/Appleseed_Alpha.jpg": "/movie-cards-library-stateful/static/media/Appleseed_Alpha.498ae78a.jpg",
+    "static/media/Final_Fantasy_Spirits_Within.jpg": "/movie-cards-library-stateful/static/media/Final_Fantasy_Spirits_Within.0d8b80ec.jpg",
+    "static/media/Ghost_In_The_Shell_2_0.jpg": "/movie-cards-library-stateful/static/media/Ghost_In_The_Shell_2_0.7d6b4f9c.jpg",
+    "static/media/Kingsglaive_Final_Fantasy_XV.jpg": "/movie-cards-library-stateful/static/media/Kingsglaive_Final_Fantasy_XV.917daac0.jpg",
+    "static/media/Resident_Evil_Vendetta.jpg": "/movie-cards-library-stateful/static/media/Resident_Evil_Vendetta.77c10ef3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2979b9ff.js",
+    "static/js/2.6879c355.chunk.js",
+    "static/css/main.e274d78f.chunk.css",
+    "static/js/main.57480d28.chunk.js"
+  ]
+}
